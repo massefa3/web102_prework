@@ -31,6 +31,7 @@ https://github.com/user-attachments/assets/c6373003-0a41-489d-b259-3866a89764ab
 ## Notes
 
 Describe any challenges encountered while building the app.
+- N/A
 
 ## License
 
