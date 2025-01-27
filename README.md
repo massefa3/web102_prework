@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://youtu.be/mdIfvzZNkBs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/mdIfvzZNkBs">
-</iframe>
+https://github.com/user-attachments/assets/c6373003-0a41-489d-b259-3866a89764ab
+
+
 
 ## Notes
 
